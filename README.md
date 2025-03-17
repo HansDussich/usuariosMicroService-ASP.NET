@@ -2,6 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/5e0eadcc-ec16-4f99-89c5-8c03f35eb90a)
 
+# crear el controlador
+
 dotnet aspnet-codegenerator controller -name UsuariosController -async -api -m usuario -dc AppDbContext -outDir Controllers
 
 
